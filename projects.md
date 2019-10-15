@@ -24,8 +24,8 @@ I rehauled the entire documentation page for CalSIM, and created a bash script t
 
 ## [UCLA Trash Breakdown](https://stack.dailybruin.com/2019/06/07/waste-audits/)
 
-Analyzed how much students/faculty at UCLA compost and recycle vs. throw trash into the landfill bin. Includes an interactive game where you try to sort different types of trash into the correct waste bin. Built using flask, React, and d3.
+Analyzed how much students/faculty at UCLA compost and recycle vs. throw trash into the landfill bin. Includes an interactive game where you try to sort different types of trash into the correct waste bin. After you are done with the game, compare the number of tries you took with other people who played the game! Built using flask, React, and d3.
 
 ## [Analysis of the _Daily Bruin_'s 2018 Fall Interns](https://stack.dailybruin.com/2018/12/10/2018db-recruitment/)
 
-Looked at the accpetance rates and demographics of the _Daily Bruin_'s 2018 fall interns.
+Looked at the accpetance rates and demographics of the _Daily Bruin_'s 2018 fall interns. Play around with the interactive graphs and charts!
