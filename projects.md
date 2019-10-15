@@ -14,7 +14,7 @@ This social media website was intentionally designed to have poor UX (to teach o
 
 ### The project I interned for at the UCLA Center for Health Policy Research during the spring, summer, and fall of 2019.
 
-## [CalSIM documentation page](calsim.bitbucket.io)
+## [CalSIM documentation page](https://calsim.bitbucket.io)
 
 I rehauled the entire documentation page for CalSIM, and created a bash script to easily update it. Built using Sphinx and bash.
 
