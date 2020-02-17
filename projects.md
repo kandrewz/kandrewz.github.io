@@ -22,6 +22,10 @@ I rehauled the entire documentation page for CalSIM, and created a bash script t
 
 ### The data journalism section of the _Daily Bruin_, UCLA's student newspaper
 
+## [How Quickly do Classes Fill up](https://stack.dailybruin.com/2020/02/05/class-fill-ups/)
+
+Scraped how quickly every class at UCLA fills up during Winter 2020 enrollment. Created an interactive chart that allows users to compare how fast their classes fill up. Also created charts showing the amount of classes that fill up per department. Built using React, react-bootstrap, and react-vis.
+
 ## [UCLA Trash Breakdown](https://stack.dailybruin.com/2019/06/07/waste-audits/)
 
 Analyzed how much students/faculty at UCLA compost and recycle vs. throw trash into the landfill bin. Includes an interactive game where you try to sort different types of trash into the correct waste bin. After you are done with the game, compare the number of tries you took with other people who played the game! Built using flask, React, and d3.
