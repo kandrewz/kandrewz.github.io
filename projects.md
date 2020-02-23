@@ -1,5 +1,7 @@
 # Projects
 
+# Flux
+
 ### A project I created with a team of classmates and friends for Creative Labs, a CS project club at UCLA
 
 ## [flux.rip](https://flux.rip)
