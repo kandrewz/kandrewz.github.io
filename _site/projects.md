@@ -1,5 +1,29 @@
 # Projects
 
+# The Stack
+
+### The data journalism section of the _Daily Bruin_, UCLA's student newspaper
+
+## [Visualizing LA Hospitals, and Simulating COVID-19 on an Unprotected UCLA](https://stack.dailybruin.com/2020/04/20/covid-hospitals/)
+
+Simulated how many hospital beds would have been needed for UCLA students if they had all stayed in their dorms/apartments and been infected. Built using Chart.js
+
+## [School's Out, Zoom's In](https://stack.dailybruin.com/2020/04/15/covid-collegecompare/)
+
+Compared how quickly different colleges around the US reacted to the COVID-19 pandemic. Built the first graph using amCharts
+
+## [How Quickly do Classes fill up?](https://stack.dailybruin.com/2020/02/05/class-fill-ups/)
+
+Scraped and analyzed UCLA student class enrollment data for the Winter 2020 quarter. Collected over 1.6 million data points. Built using python, R, React, and React-vis.
+
+## [UCLA Trash Breakdown](https://stack.dailybruin.com/2019/06/07/waste-audits/)
+
+Analyzed how much students/faculty at UCLA compost and recycle vs. throw trash into the landfill bin. Includes an interactive game where you try to sort different types of trash into the correct waste bin. After you are done with the game, compare the number of tries you took with other people who played the game! Built using flask, React, and d3.
+
+## [Analysis of the _Daily Bruin_'s 2018 Fall Interns](https://stack.dailybruin.com/2018/12/10/2018db-recruitment/)
+
+Looked at the accpetance rates and demographics of the _Daily Bruin_'s 2018 fall interns. Play around with the interactive graphs and charts!
+
 # Flux
 
 ### A project I created with a team of classmates and friends for Creative Labs, a CS project club at UCLA
@@ -17,15 +41,3 @@ This social media website was intentionally designed to have poor UX (to teach o
 ## [CalSIM documentation page](https://calsim.bitbucket.io)
 
 I rehauled the entire documentation page for CalSIM, and created a bash script to easily update it. Built using Sphinx and bash.
-
-# The Stack
-
-### The data journalism section of the _Daily Bruin_, UCLA's student newspaper
-
-## [UCLA Trash Breakdown](https://stack.dailybruin.com/2019/06/07/waste-audits/)
-
-Analyzed how much students/faculty at UCLA compost and recycle vs. throw trash into the landfill bin. Includes an interactive game where you try to sort different types of trash into the correct waste bin. After you are done with the game, compare the number of tries you took with other people who played the game! Built using flask, React, and d3.
-
-## [Analysis of the _Daily Bruin_'s 2018 Fall Interns](https://stack.dailybruin.com/2018/12/10/2018db-recruitment/)
-
-Looked at the accpetance rates and demographics of the _Daily Bruin_'s 2018 fall interns. Play around with the interactive graphs and charts!
