@@ -1,4 +1,4 @@
-## [Resume (for better resolution)][resume]
+## [Resume (click for better resolution)][resume]
 
 ![resume picture][resume]{:class="img-responsive" :height="2000px" :width="2000px"}
 

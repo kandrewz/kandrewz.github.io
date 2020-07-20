@@ -10,15 +10,15 @@ I am currently interested in all things CS (from operating systems to front-end/
 
 ## Skills
 
-- Fluent: Python, C++, git, React, Linux, Javascript
+- Fluent: Python, C++, git, React, Linux
 
 - Semi-fluent: d3, Pandas, Numpy, Firebase
 
-- Used: flask, Postman, Docker, Django
+- Used: flask, Postman
 
 ## Non-professional Interests
 
-- Running (Was training for a sub 3:15 marathon before COVID-19)
+- Running (currently training for a 1:30 half-marathon)
 - Reading longforms (long journalism commentaries)
 - League of Legends
 - Slay the Spire
