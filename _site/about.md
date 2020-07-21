@@ -1,6 +1,6 @@
 # About Me
 
-I am a second-year CSE major at UCLA trying to switch into CS + statistics minor.
+I am a third-year CSE major at UCLA trying to switch into CS + statistics minor.
 I love talking about and solving any type of problem (even non-tech related ones!), and my goal
 is to create technological solutions that make people happy and/or informed.
 
@@ -19,6 +19,7 @@ I am currently interested in all things CS (from operating systems to front-end/
 ## Non-professional Interests
 
 - Running (currently training for a 1:30 half-marathon)
+- Listening to Podcasts
 - Reading longforms (long journalism commentaries)
 - League of Legends
 - Slay the Spire
