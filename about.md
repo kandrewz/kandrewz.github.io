@@ -1,6 +1,6 @@
 # About Me
 
-I am a third-year CSE major at UCLA trying to switch into CS + statistics minor.
+I am a third-year Computer Science and Engineering major at UCLA trying to switch into CS + statistics minor.
 I love talking about and solving any type of problem (even non-tech related ones!), and my goal
 is to create technological solutions that make people happy and/or informed.
 

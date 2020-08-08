@@ -1,6 +1,4 @@
-# Andrew's Personal Website
-
-Welcome to my website!
+# Welcome to my Website!
 
 Feel free to learn more [about me](about.md), check out my [projects](projects.md), see my [resume](resume.md), and/or [contact me](contact.md).
 
