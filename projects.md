@@ -7,11 +7,17 @@
 
 ### The data journalism section of the _Daily Bruin_, UCLA's student newspaper
 
-## [2020 Graduation Issue](https://gradissue2020.dailybruin.com/)
+## [Paycheck Protection Program Westwood Businesses Map](https://dailybruin.com/2020/09/05/the-quad-the-paycheck-protection-program-and-how-it-has-affected-westwood-businesses)
+
+![Article Preview](./pictures/dailybruin/dailybruin_seven.png)
+
+Mapped which Westwood, LA businesses receiived a loan greater than 150k from the federal Paycheck Protection Program.
+
+## [Scrollytell for 2020 UCLA Graduation Issue](https://gradissue2020.dailybruin.com/)
 
 ![Article Preview](./pictures/dailybruin/dailybruin_six.png)
 
-Created scrolly telling animation at the start of the page as well as the sidebar post-scrollytelling. 
+Created scrolly telling animation at the start of the page as well as the sidebar post-scrollytelling.
 
 ## [Visualizing Los Angeles Hospitals, and Simulating COVID-19 on an Unprotected UCLA](https://stack.dailybruin.com/2020/04/20/covid-hospitals/)
 
@@ -21,7 +27,7 @@ Graphed the amount of hospital and ICU beds potentially needed by the Ronald Rea
 
 ## [School's Out, Zoom's In](https://stack.dailybruin.com/2020/04/15/covid-collegecompare/)
 
-Created a timeline of several US colleges' responses to COVID-19 during its spring outbreak. Allowed users to filter the timeline by school and major event. 
+Created a timeline of several US colleges' responses to COVID-19 during its spring outbreak. Allowed users to filter the timeline by school and major event.
 
 ![Article Preview](./pictures/dailybruin/dailybruin_four.png)
 
@@ -51,7 +57,7 @@ Looked at the accpetance rates and demographics of the _Daily Bruin_'s 2018 fall
 
 ## [TBP Website](https://tbp.seas.ucla.edu/)
 
-Manage and update the Tau Beta Pi website. Handle the tutoring schedule, officers page, database errors, email errors, and a variety of other things. 
+Manage and update the Tau Beta Pi website. Handle the tutoring schedule, officers page, database errors, email errors, and a variety of other things.
 
 # In-person Class Tracker
 
@@ -59,7 +65,7 @@ Manage and update the Tau Beta Pi website. Handle the tutoring schedule, officer
 
 ## [Google Drive Link](https://drive.google.com/file/d/11_3r7lAqQArxirPWKR1BtPTkB_epecEc/view?usp=sharing)
 
-A tracker that was made to track in-person classes for international students in response to the Trump's administration proposed plan to strip visas of students with no in-person classes. Automated a script that checked which Fall 2020 UCLA classes were in-person and how much space they had left. The script would automatically upload and format the data to a public Google Drive folder. 
+A tracker that was made to track in-person classes for international students in response to the Trump's administration proposed plan to strip visas of students with no in-person classes. Automated a script that checked which Fall 2020 UCLA classes were in-person and how much space they had left. The script would automatically upload and format the data to a public Google Drive folder.
 
 # CalSIM
 
