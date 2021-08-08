@@ -3,6 +3,14 @@
 
 # Projects
 
+# UCLA Datafest
+
+## [2019 US State Drug Misuse by Cannabis Legality](https://benohrbrill.com/datafest/)
+
+![Map of 2019 US State Drug Misuse by Cannabis Legality](./pictures/datafest/datefest_one.png)
+
+Categorized levels of drug misuse by level of cannabis legality in US states, winning [Best Visualization](http://datafest.stat.ucla.edu/competition/2021-asa-datafesttm-results/) prize in annual UCLA Statistics competition and third place prize in the ISI Florence Nightingale for Data Visualization competition
+
 # The Stack
 
 ### The data journalism section of the _Daily Bruin_, UCLA's student newspaper
