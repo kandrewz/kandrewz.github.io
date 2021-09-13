@@ -12,6 +12,12 @@ Categorized levels of drug misuse by level of cannabis legality in US states, wi
 
 ### The data journalism section of the _Daily Bruin_, UCLA's student newspaper
 
+## [UCLA Subreddit Fosters Community for Students During Pandemic](https://features.dailybruin.com/2021/connection/#/projects/5)
+
+![Article Preview](./pictures/dailybruin/dailybruin_eight.png)
+
+Plotted timeline story of r/ucla subscribers and its notable posts using Flourish. Used Javascript to create clickable icons and popups of above posts.
+
 ## [Paycheck Protection Program Westwood Businesses Map](https://dailybruin.com/2020/09/05/the-quad-the-paycheck-protection-program-and-how-it-has-affected-westwood-businesses)
 
 ![Article Preview](./pictures/dailybruin/dailybruin_seven.png)
